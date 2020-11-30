@@ -12,12 +12,16 @@ body{
     align-items: center;
     justify-content: center;
 }
-div.efect{
+.cicle{
+    background-color: red;
+}
+.efect{
     width: 10em;
     height: 10em;
     background-color: aquamarine;
     margin: 0 0 100px;
 }
+
 
 div.container{
     width: auto;
